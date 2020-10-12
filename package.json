@@ -1,13 +1,13 @@
 {
-  "name": "nodegrammertool",
+  "name": "Demo content",
   "version": "1.0.0",
-  "description": "node mongodb grammer tools",
+  "description": "node mongodb ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "NODE_ENV=production node index.js"
   },
-  "author": "Silverwebbuzz",
+  "author": "Tushar savaliya",
   "license": "ISC",
   "dependencies": {
     "aes-js": "^3.1.2",
